@@ -19,6 +19,7 @@ TBD
 Support
 
 If you have any questions or need help with Chengeto, please contact Clarence Itai Msindo at me@clarencemsindo.africa.
+
 Disclaimer
 
 This product is currently in development and not yet available for use. The release date is subject to change.
