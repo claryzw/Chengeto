@@ -17,9 +17,11 @@ Features
 System Requirements
 
 TBD
+
 Installation
 
 TBD
+
 Support
 
 If you have any questions or need help with Chengeto, please contact Clarence Itai Msindo at me@clarencemsindo.africa.
@@ -27,6 +29,7 @@ If you have any questions or need help with Chengeto, please contact Clarence It
 Disclaimer
 
 This product is currently in development and not yet available for use. The release date is subject to change.
+
 License
 
 TBD
