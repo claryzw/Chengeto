@@ -4,13 +4,14 @@
  <img src="https://github.com/claryzw/Chengeto/blob/main/Logo/Chengeto%20Github.png?raw=true" alt="Chengeto Logo")
 </p>
 
-Chengeto is an AI-based app that provides advanced threat detection and protection for your systems and data. Using cutting-edge technology and algorithms, Chengeto is able to detect and respond to potential threats in real-time, ensuring that your systems and data remain secure at all times.
+Chengeto is an AI-based microservice app that provides advanced threat detection and protection for your systems and data. Using cutting-edge technology and algorithms, Chengeto is able to detect and respond to potential threats in real-time, ensuring that your systems and data remain secure at all times.
 
 Our goal is to launch Chengeto in 2025, giving you the opportunity to take your cyber security to the next level.
 
 ## Features
 
 * Real-time threat detection and protection
+* Microservice architecture for high scalability and availability
 * Advanced AI technology
 * User-friendly interface
 * Easy setup and management
