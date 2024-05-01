@@ -6,7 +6,7 @@
 
 Chengeto is an AI-based app that provides advanced threat detection and protection for your systems and data. Using cutting-edge technology and algorithms, Chengeto detects and responds to potential threats in real-time, ensuring that your systems and data remain secure at all times.
 
-Our goal is to launch Chengeto in 2025, offering you the opportunity to elevate your cyber security to the next level.
+Our goal is to launch Chengeto in 2028, offering you the opportunity to elevate your cyber security to the next level.
 
 ## Features
 
