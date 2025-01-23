@@ -1,4 +1,4 @@
-# Chengeto - Border Guardian 
+# Chengeto - Border Management System
 
 <p align="center">
  <img src="https://github.com/claryzw/Chengeto/blob/main/Logo/Chengeto%20Github.png?raw=true" alt="Chengeto Logo")
